@@ -39,7 +39,7 @@ Para as requisições, um exemplo de JSON para utilizarmos.
   "mobilePhone": "(11)111-111-111"
 }
 - Para cadastro utilize o URL http://localhost:8080/customer/ com a requisição do tipo POST e encaminhe um JSON no body,
-  lembrando de não passar nenhum valor em ID caso contrario o projeto não efetuara o cadastro e retornará um erro.
+  lembrando que se passar algum valor em ID o projeto não efetuara o cadastro e retornará um erro.
 
 - Caso queira listar todos os clientes cadastrados, basta solicitar um GET no URL http://localhost:8080/customer/get-all
 
@@ -52,4 +52,4 @@ Para as requisições, um exemplo de JSON para utilizarmos.
   retornará um erro.
 
 - Se deseja deletar um cliente, basta encaminhar o ID para o URL http://localhost:8080/customer/{id} com uma requisição
-  do tipo DELETE, mas passando um ID que nao tenha no banco, retornará um erro.
+  do tipo DELETE, mas caso passe um ID que nao tenha no banco, retornará um erro.
