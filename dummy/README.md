@@ -5,7 +5,7 @@ arquitetura REST com protocolo HTTP e também a utilização de um handler para 
 
 # Começando
 
-1. Para rodar este projeto fictício será necessário ter em sua máquina o java e o maven.
+1. Para rodar este projeto fictício será necessário ter em sua máquina o java 11 e o maven.
 
 2. Após clonar o repositório, crie em um banco de dados PostgreSQL um data base chamado “db_dummy” com login e senha
    “postgres”
