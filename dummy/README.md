@@ -1,7 +1,7 @@
 # Introdução
 
 O projeto Dummy foi criado com o intuito de demonstrar a criação de um projeto java e spring, utilizando um estilo de
-arquitetura RESTful com protocolo http e também a utilização de um handler para tratativa de erros.
+arquitetura REST com protocolo HTTP e também a utilização de um handler para tratativa de erros.
 
 # Começando
 
