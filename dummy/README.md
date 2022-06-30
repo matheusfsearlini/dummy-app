@@ -24,7 +24,7 @@ arquitetura REST com protocolo HTTP e também a utilização de um handler para 
 
 - Caso utilize algum programa para fazer as requisições, esta API é fictícia e não possui autenticação.
 
-- O projeto dummy possui um exemplo de tratativa de erros, onde é tratado erro do tipo "Entidate Existente e
+- O projeto dummy possui um exemplo de tratativa de erros, onde é tratado erro do tipo "Entidade Existente e
   Inexistente" no banco de dados.
 
 # Fazendo requisições
